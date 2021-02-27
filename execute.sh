@@ -1,0 +1,1 @@
+echo if it wiil ask you y/n type y and press enter && apt-get install python && clear && cd Programming && clear && python VinSiyaCalculator.py
